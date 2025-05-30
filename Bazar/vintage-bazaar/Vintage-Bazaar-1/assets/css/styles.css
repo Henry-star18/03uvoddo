@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(255, 255, 255); /* Light background for a vintage feel */
+    font-family: 'Georgia', serif; /* Serif font for headings */
+    color: #1c1c1c; /* Dark text color for readability */
+}
+
+h1, h2, h3 {
+    color: #040608; /* Muted color for headings */
+}
+
+.card {
+    border: 1px solid #ffffff; /* Light border for cards */
+    border-radius: 0.5rem; /* Rounded corners */
+    margin-bottom: 1.5rem; /* Spacing between cards */
+}
+
+.card-title {
+    font-family: 'Arial', sans-serif; /* Sans-serif font for card titles */
+    font-weight: bold; /* Bold titles for emphasis */
+}
+
+.intro-section {
+    background-color: #fcfdff; /* Light gray background for intro section */
+    padding: 2rem; /* Padding for spacing */
+    border-radius: 0.5rem; /* Rounded corners */
+}
+
+.contact-section {
+    background-color: #fffcfc; /* White background for contact section */
+    padding: 1.5rem; /* Padding for spacing */
+    border: 1px solid #dee2e6; /* Light border */
+    border-radius: 0.5rem; /* Rounded corners */
+}
+
+footer {
+    background-color: #343a40; /* Dark footer background */
+    color: #ffffff; /* White text for footer */
+    text-align: center; /* Centered text */
+    padding: 1rem; /* Padding for spacing */
+    position: relative; /* Positioning for footer */
+    bottom: 0; /* Stick to bottom */
+    width: 100%; /* Full width */
+}
+
+img {
+    width: 20%;
+    height: auto;
+    display: block;
+}
